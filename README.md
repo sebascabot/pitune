@@ -2,6 +2,9 @@
 
 > Écoute de fichier audio avec un Raspberry PI déclanché par des cartes RFID.
 
+## Raspberry PI Setup
+
+Install `2016-05-27-raspbian-jessie`.
 
 ## NodeJS setup on the Raspberry PI
 
@@ -35,7 +38,16 @@ After the fix
 
     > sudo apt install libgrooveloudness-dev libgrooveplayer-dev libgroovefingerprinter-dev libgroove-dev
 
-## Install `mpd`
+## Install node modules
+
+    > npm install
+
+## Start the NodeJS app
+
+    > node play.js
+
+
+## TO TRY: Install `mpd`
 
     > sudo apt install mpd mpc
 

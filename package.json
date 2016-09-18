@@ -9,6 +9,6 @@
   "author": "Sébastien Cabot",
   "license": "MIT",
   "dependencies": {
-    "groove": "^2.3.4"
+    "groove": "2.3.4"
   }
 }
