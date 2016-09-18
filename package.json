@@ -1,0 +1,14 @@
+{
+  "name": "pitune",
+  "version": "1.0.0",
+  "description": "Play song",
+  "main": "play.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sébastien Cabot",
+  "license": "MIT",
+  "dependencies": {
+    "groove": "^2.3.4"
+  }
+}
