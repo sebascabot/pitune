@@ -74,3 +74,8 @@ Then use `mpc` to play your files.
       [playing] #1/1   0:17/6:10 (4%)
       volume: 77%   repeat: off   random: off   single: off   consume: off
 
+## TO TRY: Install `mopidy`
+
+Install https://www.mopidy.com/ with a Web Client.
+
+Try to install http://www.pimusicbox.com/, since Mopidy is install on it.
